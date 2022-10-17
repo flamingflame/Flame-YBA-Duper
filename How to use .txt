@@ -1,0 +1,6 @@
+Made By: Flame#7849
+1# Send trade to your alt/main accounts
+2# After you are in the trading section put the items on the trade
+3# Run the "Flame YBA Duper.exe" 
+4# The items should now be saved in both accounts after you accepted the trade
+Credits : https://github.com/flamingflame/Flame-YBA-Duper
